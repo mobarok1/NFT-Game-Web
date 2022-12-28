@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   // Set up FlipDown
-  var flipdown = new FlipDown(1663401600 + 1, {
+  var flipdown = new FlipDown(1672531200 + 1, {
     theme: "light",
   })
 
